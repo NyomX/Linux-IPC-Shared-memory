@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : Sandeep V
+## Reg no : 212223040179
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
@@ -54,8 +54,8 @@ int main()
 ```
 
 ## OUTPUT
+![image](https://github.com/NyomX/Linux-IPC-Shared-memory/assets/145953580/79911ffc-16b2-4382-81d8-149d219edd21)
 
-![image](https://github.com/Shyamsujin/Linux-IPC-Shared-memory/assets/144870449/2dd063bc-0939-40e7-ba71-4229bb0adb78)
 
 # RESULT:
 The program is executed successfully.
